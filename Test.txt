@@ -1,0 +1,2 @@
+This is my fist test in git
+I think I'm pretty cool. 
